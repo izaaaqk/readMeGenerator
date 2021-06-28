@@ -1,7 +1,7 @@
 
-# **ReadMe Generator**
+# **Read me generator**
 ## Description 
-This app will create and add a profesional looking Readme.txt to the githun repo.
+this will generate aprofessional read me
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -12,11 +12,11 @@ This app will create and add a profesional looking Readme.txt to the githun repo
 - [Repository Link](#Repository)
 - [GitHub Info](#GitHub) 
 ## Installation
-        instal node_modules to run node index.js on your terminal. 
+        run npm i to install node modules then run node index.js
 ## Usage
-This will save time when making readme files
+facilitate to the user a readme with out spending a lot of time making one
 ## Licence
-javaScript, node
+javaScript
 ## Contributors
 Isaac Aguirre
 ## Test
